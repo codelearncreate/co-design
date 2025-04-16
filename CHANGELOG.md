@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/codelearncreate/co-design/compare/v1.5.0...v1.6.0) (2025-04-16)
+
+
+### Features
+
+* update pagination buttons based on design feedback ([#160](https://github.com/codelearncreate/co-design/issues/160)) ([b305679](https://github.com/codelearncreate/co-design/commit/b3056790cd87dac271397910921dface6f4bf81c))
+
 ## [1.5.0](https://github.com/codelearncreate/co-design/compare/v1.4.0...v1.5.0) (2024-05-21)
 
 
