@@ -1,6 +1,6 @@
 {
   "name": "@weavly/co-design",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "Recommendations to enable designers, children, teachers, and caregivers to meet their respective needs and achieve their goals in a collaborative process.",
   "scripts": {
     "build": "npm-run-all -l clean -p build:*",
