@@ -4,12 +4,12 @@ backend:
   repo: codelearncreate/co-design
   base_url: https://sveltia-cms-auth.idrc-ops.workers.dev
   # squash_merges: true
-  # commit_messages:
-  #   create: 'chore(cms): create "{{path}}"'
-  #   update: 'chore(cms): update "{{path}}"'
-  #   delete: 'chore(cms): delete "{{path}}"'
-  #   uploadMedia: 'chore(cms): upload "{{path}}"'
-  #   deleteMedia: 'chore(cms): delete "{{path}}"'
+  commit_messages:
+    create: 'chore(cms): create "{{path}}"'
+    update: 'chore(cms): update "{{path}}"'
+    delete: 'chore(cms): delete "{{path}}"'
+    uploadMedia: 'chore(cms): upload "{{path}}"'
+    deleteMedia: 'chore(cms): delete "{{path}}"'
 # publish_mode: editorial_workflow
 site_url: "https://co-design.weavly.org"
 media_folder: src/assets/uploads
