@@ -1,0 +1,10 @@
+name: Lint and test
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  lint-and-test:
+    uses: inclusive-design/workflows/.github/workflows/node-lint-and-test.yml@main
+
