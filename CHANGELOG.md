@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.2](https://github.com/codelearncreate/co-design/compare/v1.6.1...v1.6.2) (2025-04-25)
+
+
+### Bug Fixes
+
+* add commit messages to CMS config ([#213](https://github.com/codelearncreate/co-design/issues/213)) ([1934bfe](https://github.com/codelearncreate/co-design/commit/1934bfea03f222eaaa2f329c13e500f59b81e5a0))
+
 ## [1.6.1](https://github.com/codelearncreate/co-design/compare/v1.6.0...v1.6.1) (2025-04-25)
 
 
