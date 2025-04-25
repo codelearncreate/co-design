@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.6.0](https://github.com/codelearncreate/co-design/compare/v1.5.0...v1.6.0) (2025-04-25)
+
+
+### Features
+
+* add content license ([#187](https://github.com/codelearncreate/co-design/issues/187)) ([f583626](https://github.com/codelearncreate/co-design/commit/f58362654116948618fbac82bd65ea44e53d3614))
+* update pagination buttons based on design feedback ([#160](https://github.com/codelearncreate/co-design/issues/160)) ([b305679](https://github.com/codelearncreate/co-design/commit/b3056790cd87dac271397910921dface6f4bf81c))
+
 ## [1.5.0](https://github.com/codelearncreate/co-design/compare/v1.4.0...v1.5.0) (2024-05-21)
 
 
