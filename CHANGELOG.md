@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.6.1](https://github.com/codelearncreate/co-design/compare/v1.6.0...v1.6.1) (2025-04-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @11ty/eleventy-navigation to v1 ([#208](https://github.com/codelearncreate/co-design/issues/208)) ([2d6997d](https://github.com/codelearncreate/co-design/commit/2d6997d863ee088db9971bc59151ec8224725010))
+* **deps:** update dependency eleventy-plugin-fluid to v2.7.3 ([#185](https://github.com/codelearncreate/co-design/issues/185)) ([55e6182](https://github.com/codelearncreate/co-design/commit/55e61824075f6aeb1d0c1668c280bfbd0a6f983e))
+* **deps:** update dependency infusion to v4.8.0 ([#197](https://github.com/codelearncreate/co-design/issues/197)) ([b6cdc7d](https://github.com/codelearncreate/co-design/commit/b6cdc7d4a9689b5c16fc1cd58036821fc4a421be))
+
 ## [1.6.0](https://github.com/codelearncreate/co-design/compare/v1.5.0...v1.6.0) (2025-04-25)
 
 
