@@ -29,7 +29,7 @@
   "homepage": "https://github.com/codelearncreate/co-design#readme",
   "dependencies": {
     "@11ty/eleventy": "2.0.1",
-    "@11ty/eleventy-navigation": "0.3.5",
+    "@11ty/eleventy-navigation": "1.0.4",
     "eleventy-plugin-fluid": "2.7.3",
     "infusion": "4.8.0",
     "modern-css-reset": "1.4.0"
