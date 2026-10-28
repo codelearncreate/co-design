@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.3](https://github.com/codelearncreate/co-design/compare/v1.6.2...v1.6.3) (2026-10-28)
+
+
+### Bug Fixes
+
+* update auth base_url ([2f64807](https://github.com/codelearncreate/co-design/commit/2f6480781e2280a6ca7945b2ca6252b330681a5b))
+
 ## [1.6.2](https://github.com/codelearncreate/co-design/compare/v1.6.1...v1.6.2) (2025-04-25)
 
 
